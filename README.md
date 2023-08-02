@@ -39,7 +39,7 @@ To run the microservices locally, follow these steps:
 
 ## Contributing 🤝
 
-Contributions are welcome! If you have any improvements, suggestions, or new features to add, feel free to submit a pull request.
+Contributions are welcome! If you have any improvements, suggestions, or new features to add, feel free to submit a pull request .
 
 ## Contact 📧
 
