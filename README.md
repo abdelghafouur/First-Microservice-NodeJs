@@ -43,6 +43,6 @@ Contributions are welcome! If you have any improvements, suggestions, or new fea
 
 ## Contact 📧
 
-For any inquiries or feedback, please reach out to abdelghafourlahnida@gmail.com.
+For any inquiries or feedback, please reach out to abdelghafourlahnida01@gmail.com.
 
 
